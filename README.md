@@ -25,7 +25,7 @@ First column:
 * If it's a number it's a MIDI note, following the MIDI mapping of a Roland drum machine (like https://github.com/montoyamoraga/drum-machine-patterns#conventions-for-this-project)
 * Otherwise:
   * `AC`: accent
-  * `SH`: shuffle
+  * `SH`: slide
 
 Second column:
 * `x`: a hit
