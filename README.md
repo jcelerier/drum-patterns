@@ -27,6 +27,7 @@ First column:
 * Otherwise:
   * `AC`: accent
   * `SL`: slide
+  * `ST`: tb303 note state. can be 0, 1, 2.
 
 Second column:
 * `x`: a hit
