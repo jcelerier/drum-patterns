@@ -23,9 +23,10 @@ Imported from various sources:
 
 First column:
 * If it's a number it's a MIDI note, following the MIDI mapping of a Roland drum machine (like https://github.com/montoyamoraga/drum-machine-patterns#conventions-for-this-project)
+* Or the General Midi mapping otherwise
 * Otherwise:
   * `AC`: accent
-  * `SH`: slide
+  * `SL`: slide
 
 Second column:
 * `x`: a hit
