@@ -32,6 +32,7 @@ First column:
 Second column:
 * Drums: 
   * `x`: a hit
+  * `f`: a flam stroke
   * `-`: a rest
 
 * Bass synthesizers: 
