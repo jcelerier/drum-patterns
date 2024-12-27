@@ -9,6 +9,7 @@ Imported from various sources:
 
 - https://github.com/montoyamoraga/drum-machine-patterns
 
+- https://github.com/billautomata/tb03-tools
 
 # Pattern syntax
 
@@ -27,9 +28,13 @@ First column:
 * Otherwise:
   * `AC`: accent
   * `SL`: slide
-  * `ST`: tb303 note state. can be 0, 1, 2.
 
 Second column:
-* `x`: a hit
-* `-`: a rest
+* Drums: 
+  * `x`: a hit
+  * `-`: a rest
+
+* Bass synthesizers: 
+  * `0`, `1`, `2`: note state
+  * `-`: no note
 
