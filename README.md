@@ -13,7 +13,7 @@ Imported from various sources:
 
 # Pattern syntax
 
-    [0-9A-Z]{2} [-x]+
+    [0-9A-Z]{2} [-xf012]+
 
 # Example
 
