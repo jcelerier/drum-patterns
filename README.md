@@ -11,6 +11,8 @@ Imported from various sources:
 
 - https://github.com/billautomata/tb03-tools
 
+- https://github.com/stephenhandley/DrumMachinePatterns/
+
 # Pattern syntax
 
     [0-9A-Z]{2} [-xf012]+
